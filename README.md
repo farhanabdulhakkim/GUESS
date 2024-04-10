@@ -1,1 +1,3 @@
-# GUESS
+Certainly! Here's a concise explanation of the guessing game program:
+
+The guessing game program initiates by welcoming the user and generating a random number between 1 and 100, which serves as the secret number to be guessed. It enters a loop prompting the user to input their guess, providing feedback on whether the guess is too low, too high, or correct. The loop continues until the user correctly guesses the secret number. Throughout the game, the program keeps track of the number of guesses made. Once the correct number is guessed, it congratulates the user and reveals the secret number, along with the number of attempts it took to guess correctly. The game ends, providing an engaging and interactive experience for users to test their guessing skills and intuition.
